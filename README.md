@@ -1,0 +1,1 @@
+html2json is a simple script to convert html to json.
